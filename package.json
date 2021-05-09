@@ -29,7 +29,7 @@
     "yargs": "^14.2.0"
   },
   "devDependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "optionalDependencies": {},
   "scripts": {
